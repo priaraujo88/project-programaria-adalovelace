@@ -1,2 +1,2 @@
-# project-programaria
+# project-programaria-adalovelace
 Project developed during the course of the "Eu ProgrAmo , PrograMaria, 4th Class. 2020
